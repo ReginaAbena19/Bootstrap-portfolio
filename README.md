@@ -10,6 +10,9 @@ The aim of week 3's challenge is to recreate week 2's portfolio challenge using 
 
 ![An image showing the final design we had to create/our design inspiration](images/solution.png)
 
+## Credits
+https://fontawesome.com/icons - For use of icons
+
 ## Workflow 
 This time round I committed straight to main with very clear commit messages and history  
 
