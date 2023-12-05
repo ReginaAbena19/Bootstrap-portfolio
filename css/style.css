@@ -7,7 +7,7 @@
 }
 
 :root {
-  --var-color: rgb(243, 242, 242) ;
+  --var-color: #ffffff;
   --var-color-about: #a8a5a5;
   --var-button-color: #000000;
   --var-border-color: #ccc;
@@ -23,12 +23,13 @@
 .jumbotron {
   background-image: url("../images/02-hero-bg.jpg");
   background-size: cover;
-  opacity: 0.95;
+  opacity: 2;
   text-shadow: var(--var-color) 0px 0px 10px;
 }
 
 .jumbo-text {
   color: var(--var-color);
+  font-weight: bolder;
 }
 
 /*My Work*/
