@@ -1,0 +1,44 @@
+/* start*/
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --color-one: rgb(237, 237, 237);
+}
+
+/* Navigation*/
+
+.nav-item {
+  margin-right: 30px;
+}
+
+/*Jumbotron*/
+.jumbotron {
+  background-image: url("../images/02-hero-bg.jpg");
+  background-size: cover;
+}
+
+.jumbo-text {
+  color:rgb(244, 243, 241);
+}
+
+/*Skills*/
+/*My work*/
+.button-color {
+  background-color: black;
+}
+/*About me*/
+.about-me-photo {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%; 
+  object-fit: cover;
+  border: 2px solid #ccc;
+  margin: 15px;
+}
+
+/*Footer */
